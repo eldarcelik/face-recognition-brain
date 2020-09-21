@@ -75,9 +75,9 @@ class App extends Component {
           className="particles"
           params={particlesOptions}
         />
-        <Navigation />
+        {/* <Navigation /> */}
         <Logo />
-        <Rank />
+        {/* <Rank /> */}
         <ImageLinkForm 
           onInputChange={this.onInputChange}
           onButtonSubmit={this.onButtonSubmit}
