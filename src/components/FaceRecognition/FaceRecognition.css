@@ -6,3 +6,7 @@
     justify-content: center;
     cursor: pointer;
 }
+img {
+    width: 500px;
+    height: auto;
+}
